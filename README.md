@@ -21,3 +21,5 @@ Lanzar con
 ```bash
 python bot.py
 ```
+
+Para generar un nuevo tweet cada día, usar [cron](https://es.wikipedia.org/wiki/Cron_(Unix)).
