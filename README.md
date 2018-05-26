@@ -1,6 +1,8 @@
 # Bot Twitter "Paisajes de Bolivia"
 
-Bot https://twitter.com/BoliviaPaisajes
+Ver el bot Twitter en https://twitter.com/BoliviaPaisajes
+
+[![Bot Twitter](./bot.png)](https://twitter.com/BoliviaPaisajes)
 
 ## Para instalar
 
