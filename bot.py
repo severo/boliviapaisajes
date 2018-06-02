@@ -21,3 +21,7 @@ arguments = {"keywords":keyword,"limit":50,"print_urls":True, "output_directory"
 paths = response.download(arguments)
 
 api.update_with_media(random.choice(paths[keyword]), "")
+
+# Delete files
+for f in paths[keyword]:
+    os.remove(f)
