@@ -4,6 +4,7 @@ from google_images_download import google_images_download
 import random
 from secrets import *
 import tweepy
+import os
 
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_token, access_secret)
